@@ -9,9 +9,9 @@
 
 - 📫 How to reach me **emad.work11@gmail.com**
 
-- 📄 Know about my experiences [shorturl.at/bqu07](shorturl.at/bqu07)
+- 📄 Know about my experiences(my resume) [shorturl.at/bqu07](shorturl.at/bqu07)
 
-- ⚡ Deep fact **If you think there is no reason to seek in life, because in the end you will die, then also there is no reason to sit down doing nothing because in the end you will die**
+- ⚡ Deep fact: **If you think there is no reason to seek in life, because in the end you will die, then also there is no reason to sit down doing nothing because in the end you will die**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
