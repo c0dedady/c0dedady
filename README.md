@@ -9,7 +9,7 @@
 
 - 📫 Reach me: emad.naeim@pm.me
 
-- 📄 💭 Knowledge is a paradox. The more one understands, the more one realizes the vastness of his ignorance
+- 💭 Knowledge is a paradox. The more one understands, the more one realizes the vastness of his ignorance
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/i.emadd) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i.emadd) 
