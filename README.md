@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emad Naeim</h1>
 <h3 align="center">A passionate logical and results-driven Full-Stack developer, Technically proficient and analytical problem solver with calm and focused demeeanor.</h3>
 
-<p align="left"> [![](https://visitcount.itsvg.in/api?id=e-Naeim&icon=5&color=0)](https://visitcount.itsvg.in) </p>
+[![](https://visitcount.itsvg.in/api?id=e-Naeim&icon=5&color=0)](https://visitcount.itsvg.in)
 
 - 🎯 Currently pursuing BSc in Computer Science (ML & AI) at University of London
 
@@ -19,15 +19,7 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  
-![]([https://github-readme-stats.vercel.app/api?username=e-Naeim&theme=radical&hide_border=false&include_all_commits=false&count_private=true](https://github-readme-stats.vercel.app/api?username=e-Naeim&theme=radical&hide_border=false&include_all_commits=true&count_private=true))
-
-<br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=e-Naeim&theme=radical&hide_border=false)
-
-<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=e-Naeim&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 </div>
